@@ -1,0 +1,9 @@
+# Hi there
+
+What's up? Lets look at some code:
+
+```ruby
+def just_do_it
+  puts "do what?"
+end
+```
